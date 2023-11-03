@@ -1,11 +1,13 @@
 ![StackUp Banner]([https://tinkerhub.frappe.cloud/files/stackup%20banner.jpeg])
 # Project Name
-Long Description about project. This project do that. This project is awesome...
+This is an e commerce website for thrifting unused items
 ## Team members
-1. Name [Embed personal github URL]
-2. Name [Embed perosnal github URL]
+1.KV Trisha[https://github.com/kvtrishagautam]
+2. Gautam Krishna KJ[]
+3.Benadict Jacob
+4. Ashwin Menon
 ## Team Id
-Team id here
+accessdenied
 ## Link to product walkthrough
 [link to video]
 ## How it Works ?
